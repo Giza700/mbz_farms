@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2rem;
+    max-width: 1140px;
+}
+.logo{
+    margin-right: auto;
+}
+.navbar_links{
+    padding:0 150px;
+    flex-shrink: 1;
+}
+.navbar_links a{
+    color: white;
+    padding: 0 50px;
+    text-decoration: none;
+}
